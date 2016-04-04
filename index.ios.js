@@ -69,6 +69,7 @@ removeTodo(rowData) {
 }
 
 render() {
+ // while A was working on , B parally did some work and updated the master at 12: 51 am
   return (
     <View style={styles.appContainer}>
       <View style={styles.titleView}>
