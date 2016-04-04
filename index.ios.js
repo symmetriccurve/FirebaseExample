@@ -70,6 +70,7 @@ removeTodo(rowData) {
 
 render() {
  //B Made Changes and Committed to Local on Master 12:35 am
+ //B Made more Changes and Committed to Local on Master 12:36 am
   return (
     <View style={styles.appContainer}>
       <View style={styles.titleView}>
