@@ -72,6 +72,7 @@ render() {
  //B Made Changes and Committed to remote 12:23 am
  //B Made some more Changes and Committed to remote 12:24 
  //C Made Changes and Committed to remote 12:30 am
+ //C Made more Changes and Committed to remote 12:31 am
   return (
     <View style={styles.appContainer}>
       <View style={styles.titleView}>
