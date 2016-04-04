@@ -86,6 +86,7 @@ render() {
           onPress={() => this.addTodo()}
           underlayColor='#dddddd'>
           <Text style={styles.btnText}>Add!</Text>
+          <Text style={styles.btnText}>Add!</Text>
         </TouchableHighlight>
       </View>
       <ListView
