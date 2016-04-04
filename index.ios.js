@@ -97,6 +97,7 @@ render() {
           <Text style={styles.btnText}>Add!</Text>
           <Text style={styles.btnText}>Add!</Text>
           <Text style={styles.btnText}>Add!</Text>
+          <Text style={styles.btnText}>Add!</Text>
         </TouchableHighlight>
       </View>
       <ListView
