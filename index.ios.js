@@ -70,6 +70,7 @@ removeTodo(rowData) {
 
 render() {
  //B Made Changes and Committed to remote 12:23 am
+ //B Made some more Changes and Committed to remote 12:24 am
   return (
     <View style={styles.appContainer}>
       <View style={styles.titleView}>
