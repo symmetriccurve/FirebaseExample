@@ -78,6 +78,9 @@ render() {
         <Text style={styles.titleText}>
           My Todos
         </Text>
+        <Text style={styles.titleText}>
+          My Todos
+        </Text>
       </View>
       <View style={styles.inputcontainer}>
         <TextInput style={styles.input} onChangeText={(text) => this.setState({newTodo: text})} value={this.state.newTodo}/>
